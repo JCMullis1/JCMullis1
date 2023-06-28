@@ -3,8 +3,6 @@ Hi, I'm Jon Caleb I'm 18 years old as of 2023 and I'm a self-taught software eng
   Other than coding, my skillset includes making music, designing pixel art sprites, public speaking/communication,
 - and problem solving, I have a knack for needing stack-overflow way less than most developers do and providing useful insight
   into issues, coding, or otherwise.
-  My roadmap until I graduate in 2023 is to learn these things below,
-- C++, C, SQL and PostgreSQL, NodeJS, React, machine learning, data science, and cybersecurity.
 
 Some aspirations of mine are as follows, 
 - to get a job as a software engineer not just a web dev, (although I'll gladly work as a web dev),
